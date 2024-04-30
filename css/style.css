@@ -2,7 +2,7 @@ header {
     display: flex;
     flex-wrap: nowrap;
     background-color: black;
-    align-content: space-between;
+    justify-content: space-between;
 }
 
 .headerText {
