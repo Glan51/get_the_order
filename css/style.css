@@ -2,3 +2,7 @@ header {
     background-color: black;
     align-content: space-between;
 }
+
+.headerText {
+    color: white;
+}
