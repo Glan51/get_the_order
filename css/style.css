@@ -4,6 +4,7 @@ header {
     flex-wrap: nowrap;
     background-color: black;
     margin-bottom: 1%;
+    margin-top: 1%;
 }
 
 .headerText {
