@@ -12,6 +12,12 @@ header {
     font-size: 150%;
 }
 
+.headerleft {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10%;
+}
+
 .headerText:hover {
     text-decoration: underline;
     color: gray;
