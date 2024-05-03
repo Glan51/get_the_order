@@ -9,5 +9,10 @@ header {
 
 .headerText {
     color: white;
+
     font-size: 120%;
+}
+a {
+    color: white;
+    text-decoration: none;
 }
