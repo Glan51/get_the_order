@@ -9,10 +9,19 @@ header {
 
 .headerText {
     color: white;
-
     font-size: 120%;
 }
 a {
     color: white;
     text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+.bild {
+    width: 100%;
+    height: auto;
 }
