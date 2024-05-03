@@ -9,14 +9,10 @@ header {
 
 .headerText {
     color: white;
-    font-size: 120%;
-}
-a {
-    color: white;
-    text-decoration: none;
+    font-size: 150%;
 }
 
-a:hover {
+.headerText:hover {
     text-decoration: underline;
     color: gray;
 }
