@@ -17,7 +17,6 @@ header {
 .headerRight {
     display: flex;
     justify-content: space-between;
-    margin-left: 1%;
 }
 
 .headerTextHier, headerText:hover {
