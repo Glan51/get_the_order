@@ -14,19 +14,13 @@ header {
     font-size: 150%;
 }
 
-.headerTextHier {
-    text-decoration: underline;
-    color: violet;
-    font-size: 150%;
-}
-
 .headerleft {
     display: flex;
     justify-content: space-evenly;
     margin-right: 10%;
 }
 
-.headerText:hover {
+.headerTextHier, headerText:hover {
     text-decoration: underline;
     color: violet;
 }
