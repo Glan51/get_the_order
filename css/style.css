@@ -5,8 +5,13 @@ header {
     background-color: black;
     margin-bottom: 1%;
     margin-top: 1%;
-    padding: 20%;
+    padding: 10%;
     align-items: center;
+}
+
+.headerTextHier {
+    text-decoration: underline;
+    color: violet;
 }
 
 .headerText {
@@ -16,7 +21,7 @@ header {
 
 .headerleft {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin-right: 10%;
 }
 
