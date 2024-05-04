@@ -9,13 +9,14 @@ header {
     align-items: center;
 }
 
+.headerText {
+    color: white;
+    font-size: 150%;
+}
+
 .headerTextHier {
     text-decoration: underline;
     color: violet;
-}
-
-.headerText {
-    color: white;
     font-size: 150%;
 }
 
