@@ -24,10 +24,6 @@ header {
     color: violet;
 }
 
-.headerRightTextAbstand {
-    margin-right: 10px;
-}
-
 .logo {
     width: 100%;
     height: auto;
