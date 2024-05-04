@@ -16,7 +16,8 @@ header {
 
 .headerRight {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    margin-right: auto;
 }
 
 .headerTextHier, headerText:hover {
