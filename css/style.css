@@ -14,10 +14,9 @@ header {
     font-size: 150%;
 }
 
-.headerleft {
+.headerRight {
     display: flex;
     justify-content: space-evenly;
-    margin-right: 10%;
 }
 
 .headerTextHier, headerText:hover {
