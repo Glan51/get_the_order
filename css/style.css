@@ -17,7 +17,7 @@ header {
 .headerRight {
     display: flex;
     justify-content: space-between;
-    margin-right: auto;
+    margin-left: auto;
 }
 
 .headerTextHier, headerText:hover {
@@ -28,4 +28,8 @@ header {
 .logo {
     width: 100%;
     height: auto;
+}
+
+h1 {
+    text-align: center;
 }
