@@ -28,6 +28,11 @@ header {
     margin-right: 10px;
 }
 
+#container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
 .logo {
     width: 100%;
     height: auto;
