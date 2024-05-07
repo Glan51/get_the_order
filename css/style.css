@@ -45,9 +45,9 @@ fieldset {
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
     border: 1px solid gray;
-    background-color: rgba(70, 69, 69, 0.836);
+    background-color: rgba(70, 69, 69, 0.26);
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
 }
 
 .logo {
