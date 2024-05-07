@@ -1,4 +1,5 @@
 body {
+    display: flex;
     background-color: rgb(0, 0, 0, 0.3);
     background-image: url(img/background.png);
     align-items: center;
