@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 0, 0, 0.3);
+    background-color: rgb(0, 0, 0, 0.9);
     background-image: url(https://images2.alphacoders.com/130/thumb-1920-1307306.png);
 }
 header {
@@ -44,7 +44,8 @@ fieldset {
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-    border: 1px solid black;
+    border: 1px solid gray;
+    background-color: rgba(70, 69, 69, 0.836);
     flex-direction: column;
 }
 
@@ -57,4 +58,5 @@ h1 {
     display: flex;
     align-self: flex-start;
     margin-bottom: 5%;
+    color: white;
 }
