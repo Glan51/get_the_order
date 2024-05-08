@@ -63,4 +63,6 @@ h1 {
     align-self: flex-start;
     margin-bottom: 5%;
     color: white;
+    justify-content: center;
+    align-self: center;
 }
