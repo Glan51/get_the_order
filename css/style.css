@@ -20,6 +20,10 @@ header {
     font-size: 140%;
 }
 
+.whiteText {
+    color: white;
+}
+
 .headerRight {
     display: flex;
     justify-content: space-between;
