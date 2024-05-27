@@ -40,6 +40,7 @@ header {
 #container {
     display: flex;
     position: fixed;
+    align-items: center;
     flex-wrap: nowrap;
     bottom: 10px;
     justify-content: space-evenly;
