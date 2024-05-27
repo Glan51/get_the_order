@@ -41,8 +41,8 @@ header {
 #container {
     display: flex;
     flex-wrap: nowrap;
-    align-content: center;
-    bottom: 10%;
+    align-content: flex-end;
+    bottom: 10px;
     justify-content: space-around;
 }
 
