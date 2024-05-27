@@ -4,7 +4,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     filter: (50%);
-    -webkit-filter: (50%);
 }
 header {
     display: flex;
