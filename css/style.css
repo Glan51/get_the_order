@@ -1,9 +1,7 @@
 body {
-    background-color: rgb(0, 0, 0, 0.9);
-    background-image:url(https://images2.alphacoders.com/130/thumb-1920-1307306.png);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://images2.alphacoders.com/130/thumb-1920-1307306.png');
     background-size: cover;
-    background-repeat: no-repeat;
-    filter: (50%);
+    background-repeat: no-repeat;;
 }
 header {
     display: flex;
@@ -40,8 +38,8 @@ header {
 
 #container {
     display: flex;
+    position: fixed;
     flex-wrap: nowrap;
-    align-content: flex-end;
     bottom: 10px;
     justify-content: space-around;
 }
