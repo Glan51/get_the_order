@@ -41,7 +41,7 @@ header {
     position: fixed;
     flex-wrap: nowrap;
     bottom: 10px;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .middle {
