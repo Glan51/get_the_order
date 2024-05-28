@@ -103,6 +103,6 @@ p {
     font-size: 110%;
 }
 .containerImage {
-    width: 50%;
-    height: auto;
+    width: 100px;
+    height: 100px;
 }
