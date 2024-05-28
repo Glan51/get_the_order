@@ -117,7 +117,7 @@ footer {
     color: white;
     margin-top: 70%;
     height: 20%;
-    align-content: center;
+    justify-content: center;
 }
 #ka {
     display: flex;
