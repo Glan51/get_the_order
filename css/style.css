@@ -38,7 +38,12 @@ header {
     margin-right: 10px;
 }
 
-.marginleft {
+.displayOrder {
+    visibility: hidden;
+}
+
+.displayOrder:hover {
+    visibility: visible;
     margin-left: 10px;
 }
 
