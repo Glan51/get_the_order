@@ -75,7 +75,7 @@ fieldset {
 h1 {
     display: flex;
     align-self: flex-start;
-    margin-bottom: 5%;
+    margin-bottom: 20%;
     color: white;
     justify-content: center;
     align-self: center;
