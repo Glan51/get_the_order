@@ -93,4 +93,6 @@ h1 {
 }
 footer {
     background-color: black;
+    bottom: 0px;
+    height: max-content;
 }
