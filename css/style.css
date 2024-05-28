@@ -98,3 +98,8 @@ footer {
     bottom: 0px;
     height: max-content;
 }
+a {
+    text-decoration: rgb(rgb(242, 222, 247)7);
+    color: rgb(242, 222, 247);
+    font-size: 110%;
+}
