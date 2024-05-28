@@ -18,6 +18,7 @@ header {
 .headerText {
     color: white;
     font-size: 140%;
+    text-decoration: none;
 }
 
 .whiteText {
