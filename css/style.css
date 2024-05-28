@@ -97,6 +97,7 @@ footer {
     color: white;
     margin-top: 60%;
     height: 20%;
+    justify-content: center;
 }
 p {
     text-decoration: rgb(rgb(242, 222, 247)7);
