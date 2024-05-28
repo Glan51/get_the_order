@@ -65,6 +65,7 @@ fieldset {
     display: flex;
     border-radius: 10px;
     border: 1px solid rgb(180, 180, 180);
+    background-color: rgb(70, 69, 69);
     background-color: rgba(70, 69, 69, 0.527);
     flex-direction: column;
     color: black;
