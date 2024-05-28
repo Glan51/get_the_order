@@ -67,10 +67,6 @@ header {
 fieldset {
     display: flex;
     border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
     border: 1px solid rgb(180, 180, 180);
     background-color: rgba(70, 69, 69, 0.527);
     flex-direction: column;
@@ -101,7 +97,7 @@ footer {
 }
 p {
     text-decoration: rgb(rgb(242, 222, 247)7);
-    color: rgb(242, 222, 247);
+    color: rgb(241, 225, 245);
     font-size: 110%;
 }
 .containerImage {
