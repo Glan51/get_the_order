@@ -29,7 +29,7 @@ header {
     justify-content: space-between;
 }
 
-.headerTextHier, headerText:hover {
+.headerTextHier, .headerText:hover {
     text-decoration: underline;
     color: violet;
 }
@@ -38,8 +38,7 @@ header {
     margin-right: 10px;
 }
 
-.displayOrder:hover {
-    visibility: visible;
+.displayOrder {
     margin-left: 10px;
 }
 
