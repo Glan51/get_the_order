@@ -101,3 +101,7 @@ p {
     color: rgb(242, 222, 247);
     font-size: 110%;
 }
+.containerImage {
+    width: 50%;
+    height: auto;
+}
