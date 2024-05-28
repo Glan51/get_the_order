@@ -95,3 +95,8 @@ h1 {
     justify-content: center;
     justify-items: center;
 }
+
+.link, link:visited {
+    text-decoration: underline;
+    color: rgb(180, 180, 180);
+}
