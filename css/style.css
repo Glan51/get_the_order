@@ -38,6 +38,10 @@ header {
     margin-right: 10px;
 }
 
+.marginleft {
+    margin-left: 10px;
+}
+
 #container {
     display: flex;
     position: relative;
