@@ -43,7 +43,7 @@ header {
     align-items: center;
     align-content: center;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .middle {
@@ -85,6 +85,6 @@ h1 {
     flex-direction: row;
     align-items: center;
     align-content: center;
-    justify-content: center;
+    justify-content: space-evenly;
     justify-items: center;
 }
