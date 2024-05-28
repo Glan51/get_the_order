@@ -80,7 +80,7 @@ h1 {
     justify-content: center;
     align-self: center;
 }
-.mainbox {
+#mainbox {
     display: flex;
     flex-direction: column;
     align-items: center;
