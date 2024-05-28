@@ -42,7 +42,6 @@ header {
     position: fixed;
     align-content: center;
     flex-wrap: nowrap;
-    bottom: 10px;
     justify-content: space-evenly;
 }
 
