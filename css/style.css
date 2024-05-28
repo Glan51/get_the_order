@@ -85,6 +85,7 @@ h1 {
 #mainbox {
     display: flex;
     flex-direction: row;
+    flex-wrap: nowrap;
     align-items: center;
     align-content: center;
     justify-content: center;
