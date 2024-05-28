@@ -43,7 +43,7 @@ header {
     align-items: center;
     align-content: center;
     flex-wrap: nowrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .middle {
