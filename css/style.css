@@ -94,7 +94,8 @@ h1 {
 footer {
     display: flex;
     background-color: black;
-    margin-top: 60%;
+    color: white;
+    margin-top: 70%;
     height: 20%;
 }
 p {
