@@ -50,6 +50,13 @@ header {
     align-content: center;
     flex-wrap: nowrap;
     justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
 }
 
 .middle {
@@ -86,13 +93,4 @@ h1 {
     color: white;
     justify-content: center;
     align-self: center;
-}
-#mainbox {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-items: center;
-    align-content: center;
-    justify-content: center;
-    justify-items: center;
 }
