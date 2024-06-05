@@ -100,12 +100,3 @@ p {
     width: 65px;
     height: 70px;
 }
-#ka {
-    display: flex;
-    justify-content: center;
-    background-color: black;
-    color: white;
-    margin-top: 70%;
-    height: 20%;
-    align-content: center;
-}
