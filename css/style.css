@@ -89,14 +89,21 @@ footer {
     background-color: black;
     color: white;
     margin-top: 30%;
-    height: 50%;
+    height: 60px;
     justify-content: center;
 }
-p {
-    color: rgb(241, 225, 245);
+.impressum {
+    display: flex;
+    color: white;
     font-size: 110%;
+    flex-direction: column;
 }
 .containerImage {
     width: 65px;
     height: 70px;
+}
+.otherCatogories {
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: small;
 }
