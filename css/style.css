@@ -91,7 +91,7 @@ footer {
     margin-top: 30%;
     height: 60px;
     justify-content: center;
-    align-content: center;
+    flex-direction: column;
 }
 .impressum {
     display: flex;
