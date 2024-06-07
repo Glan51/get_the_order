@@ -111,6 +111,6 @@ footer {
     text-decoration: none;
 }
 .link {
-    text-decoration: none;
+    text-decoration: underline;
     color: white;
 }
