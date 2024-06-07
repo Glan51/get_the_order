@@ -114,3 +114,8 @@ footer {
     text-decoration: none;
     color: white;
 }
+
+.link:visited {
+    color: white;
+    text-decoration: none;
+}
