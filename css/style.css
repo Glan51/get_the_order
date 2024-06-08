@@ -107,10 +107,8 @@ footer {
     display: flex;
     flex-wrap: nowrap;
     font-size: small;
-    color: white;
-    text-decoration: none;
 }
 .link {
     text-decoration: underline;
-    color: white;
+    margin-left: 5px;
 }
